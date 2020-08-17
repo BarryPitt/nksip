@@ -5,3 +5,4 @@ log/
 _build
 .rebar3
 /nksip.version
+autocrlf = false
